@@ -8,4 +8,5 @@ Este repositorio contiene la configuración y contenido público que GitHub mues
 
 | Archivo | Descripción |
 |---------|-------------|
-| [`profile/README.md`](profile/README.md) | Texto que se muestra en la página de perfil de la organización |
+| [`profile/README.md`](profile/README.md) | Contenido que se muestra en la página de perfil de la organización |
+| [`profile/assets/`](profile/assets/) | Wordmark (variantes clara y oscura) usado en el README del perfil |
