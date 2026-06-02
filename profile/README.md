@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
-  <img alt="StrangeDaysTech" src="assets/wordmark-light.svg" width="340">
+  <img alt="StrangeDaysTech" src="assets/wordmark-light.svg" width="370">
 </picture>
 
 ### Construimos software para días extraños
