@@ -56,5 +56,7 @@ Y soluciones SaaS en camino — las anunciaremos cuando estén listas.
 <a href="https://mastodon.social/@strangedaystech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mastodon-dark.svg"><img src="assets/mastodon-light.svg" alt="Mastodon" width="20" height="20"></picture></a>
 &nbsp;&nbsp;
 <a href="https://x.com/StrangeDaysTech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/x-dark.svg"><img src="assets/x-light.svg" alt="X" width="20" height="20"></picture></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/company/strangedaystech/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg"><img src="assets/linkedin-light.svg" alt="LinkedIn" width="20" height="20"></picture></a>
 
 </div>
